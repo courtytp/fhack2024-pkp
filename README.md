@@ -1,2 +1,3 @@
-# fhack2024-pkp
-FileHack 2024 PKP
+# FileHack 2024
+
+- we use lit pkp for this
